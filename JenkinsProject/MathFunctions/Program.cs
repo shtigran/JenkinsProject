@@ -11,7 +11,7 @@ namespace MathFunctions
         static void Main(string[] args)
         {
             Console.WriteLine("The sum is: " + Functions.sum(7, 8));
-            asd
+
             Console.ReadKey();
         }
     }
