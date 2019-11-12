@@ -13,6 +13,7 @@ namespace MathFunctions
             Console.WriteLine("The sum is: " + Functions.sum(7, 8));
 
             Console.ReadKey();
+            asd
         }
     }
 }
