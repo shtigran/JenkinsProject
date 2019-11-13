@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathFunctions", "MathFuncti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{3281FBDA-40E7-4E4E-9205-7889E5B7AA6B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomationTests", "AutomationTests\AutomationTests.csproj", "{99287C10-779A-4CF3-91BD-0B59F2F0E335}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3281FBDA-40E7-4E4E-9205-7889E5B7AA6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3281FBDA-40E7-4E4E-9205-7889E5B7AA6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3281FBDA-40E7-4E4E-9205-7889E5B7AA6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99287C10-779A-4CF3-91BD-0B59F2F0E335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99287C10-779A-4CF3-91BD-0B59F2F0E335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99287C10-779A-4CF3-91BD-0B59F2F0E335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99287C10-779A-4CF3-91BD-0B59F2F0E335}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
