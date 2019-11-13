@@ -11,7 +11,8 @@ namespace AutomationTests
     {
         static void Main(string[] args)
         {
-            throw new WebException() {};
+            Console.WriteLine("The right automation test");
+            //throw new WebException() {};
         }
     }
 }
