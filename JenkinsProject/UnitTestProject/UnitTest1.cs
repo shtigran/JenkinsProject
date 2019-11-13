@@ -11,6 +11,7 @@ namespace UnitTestProject
         public void TestMethod1()
         {
             Assert.AreEqual(Functions.sum(3, 4), 7);
+            //Assert.Fail();
         }
     }
 }
