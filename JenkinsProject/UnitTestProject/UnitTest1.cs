@@ -10,8 +10,8 @@ namespace UnitTestProject
         [TestMethod]
         public void TestMethod1()
         {
-            //Assert.AreEqual(Functions.sum(3, 4), 8);
-            Assert.Fail();
+            Assert.AreEqual(Functions.sum(3, 4), 8);
+            //Assert.Fail();
         }
     }
 }
